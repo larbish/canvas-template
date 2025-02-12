@@ -61,10 +61,6 @@ export default defineNuxtConfig({
     },
   },
 
-  routeRules: {
-    '/': { isr: true, prerender: true },
-  },
-
   future: {
     compatibilityVersion: 4,
   },
