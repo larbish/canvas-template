@@ -2,9 +2,9 @@ export default defineNuxtConfig({
   modules: [
     '@vueuse/nuxt',
     '@nuxt/ui',
+    '@nuxt/content',
     '@nuxtjs/i18n',
     '@nuxtjs/seo',
-    '@nuxt/content',
     '@nuxt/image',
     '@nuxt/scripts',
   ],
