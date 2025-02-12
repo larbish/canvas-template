@@ -82,7 +82,7 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false,
       crawlLinks: true,
-      routes: ['/', '/writing', '/works', '/about', '/contact'],
+      routes: ['/en', '/fr'],
     },
   },
 
